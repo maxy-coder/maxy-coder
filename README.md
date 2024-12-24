@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxy-coder&theme=dracula" alt="maxy-coder" />
+  <img src="https://www.pexels.com/photo/anonymous-neon-mask-wallpaper-26424767/" alt="maxy-coder" />
 </p>
 
 <h3 align="center">💡 Fun Fact</h3>
